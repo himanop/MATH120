@@ -14,6 +14,7 @@ public class main {
         A= multiplyAndAdd(A,-1,1,0);
         System.out.println("This is the final matrix after we scale do -1*row1 added to row0");
         printMatrix(A);
+        //Testing Things
     }
 
 
