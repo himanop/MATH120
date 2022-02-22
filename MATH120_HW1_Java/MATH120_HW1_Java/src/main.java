@@ -17,23 +17,16 @@ public class main {
         //Testing Things
     }
 
-
-
-
-
-
-
-
     public static int[][] rowSwap(int[][] matrix, int rowA, int rowB)
     {
         // Do work here
     }
-
+    //Take any row and multiply by a number
     public static int[][] rowMultiply(int[][] matrix, int row, int number)
     {
         // Do work here
     }
-
+    //Multipy row and then add to another
     public static int[][] multiplyAndAdd(int[][] matrix, int number, int rowA, int rowB)
     {
          // Do work here
